@@ -1,1 +1,1 @@
-Este Projeto utiliza as bibliotecas os e pyaes para crar e escrever um arquivo criptografado.
+Este Projeto utiliza as bibliotecas OS e PYAES para crar e escrever um arquivo criptografado.
